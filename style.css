@@ -1,13 +1,14 @@
 /* add code here to make your image 300px square */
-#petName{
-    height:300px;
-       }
+    #pet {
+        height: 300px;
+        width: 300px;
+    }
   /* add code here to change the color and font family of your name/title */
-  h1 {
-    color: "purple";
-    font-family: "Arial";
-  }
+    #petName {
+        color: orange;
+        font-family: Arial;
+    }
   /* Bonus: change the color of your list elements */
-  li{
-    color: "purple";
-  }
+    ol {
+        color: blue;
+    }
