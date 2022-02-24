@@ -2,13 +2,26 @@
     #pet {
         height: 300px;
         width: 300px;
+        border-radius: 3em;
     }
   /* add code here to change the color and font family of your name/title */
     #petName {
         color: orange;
         font-family: Arial;
+        text-align: center;
+    }
+    #adoptionDate {
+        text-align: center;
+        text-emphasis: italic;
+        color:coral
+    }
+    #tagline {
+        text-align: center;
     }
   /* Bonus: change the color of your list elements */
     ol {
         color: blue;
+    }
+    body {
+        background-color: aqua;
     }
